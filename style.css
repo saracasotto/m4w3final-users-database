@@ -1,0 +1,14 @@
+body  {
+    background-color: rgb(218, 255, 243);
+}
+
+.navbar {
+    background-color: slategray;
+}
+.navbar a {
+    color: white;
+}
+
+td:hover{
+    cursor: pointer;
+}
